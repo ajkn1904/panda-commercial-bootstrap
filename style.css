@@ -1,0 +1,23 @@
+.bg-banner-background-color {
+    background-color: FEEAE9;
+}
+
+.banner-btn {
+    background-color: linear-gradient(FF589B, FFFFFF);
+}
+
+.categories img {
+    width: 100px;
+}
+
+section {
+    margin-bottom: 100px;
+}
+
+#product {
+    background-color: #F4F4F4;
+}
+
+footer {
+    text-align: center;
+}
