@@ -17,7 +17,21 @@ section {
 #product {
     background-color: #F4F4F4;
 }
+#contact-us {
+    text-align: center;
+}
 
+#contact-us-contact {
+    padding: 70px;
+    background-color: cornsilk;
+    margin: 30px 200px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#email{
+    height: 38px;
+}
 footer {
     text-align: center;
 }
